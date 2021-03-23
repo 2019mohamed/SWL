@@ -1,6 +1,6 @@
 # SWL
 Simplicial Weisfeiler and Lehman for graph isomorphism test
-from [GitHub](https://arxiv.org/pdf/2103.03212.pdf)
+from [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/pdf/2103.03212.pdf)
 
 perfect graphs with simpilical complex(i.e., cliques)
 ![GitHub Logo](/images/perfect1.png)
